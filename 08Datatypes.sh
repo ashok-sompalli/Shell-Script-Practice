@@ -5,7 +5,7 @@ NUM2=200
 
 SUM=$(($NUM1+$NUM2))
 
-echo "Sum is: $SUM"
+echo "SUM is: $SUM"
 
 # Array
 #FRUITS=("Apple" "Banana" "Pomo")
